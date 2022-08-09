@@ -24,9 +24,9 @@ For example, the following regular expression can be used to verify that user in
 
 ### Anchors
 
-    Anchors decide what position the characters are in
-    ^ – The caret anchor matches the beginning of the text.
-    $ – The dollar anchor matches the end of the text.
+Anchors decide what position the characters are in
+`^` The caret anchor matches the beginning of the text.
+`$` The dollar anchor matches the end of the text.
 
 ### Quantifiers
 Quantifiers tell ou how many characters, classes, groups there needs to be for to find a match
